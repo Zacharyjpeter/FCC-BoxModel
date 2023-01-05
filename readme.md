@@ -1,4 +1,3 @@
-# FCC-CSSBoxModel
 <h1>CSS Box Model</h1>
 Current project. Not sure what it is yet.
 <br>
