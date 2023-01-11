@@ -1,6 +1,7 @@
 <h1>CSS Box Model</h1>
 A Rothko art box. This project helped me understand the difference between content, padding, border, and margin.
 <br>
+<br>
 View <a href="https://zacharyjpeter.github.io/FCC-CSSBoxModel">the finished project</a> here
 <br>
 <h3>Biggest Challenge</h3>
