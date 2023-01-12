@@ -2,7 +2,7 @@
 A Rothko art box. This project helped me understand the difference between content, padding, border, and margin.
 <br>
 <br>
-View <a href="https://zacharyjpeter.github.io/FCC-CSSBoxModel">the finished project</a> here
+View <a href="https://zacharyjpeter.github.io/FCC-BoxModel">the finished project</a> here
 <br>
 <h3>Biggest Challenge</h3>
 This project wasn't difficult. I finished it in one go. It just improved my awareness of how box model works.
